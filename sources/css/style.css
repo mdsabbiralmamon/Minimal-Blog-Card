@@ -63,3 +63,7 @@ body {
     width: fit-content;
     color: #6C727F;
 }
+
+.cardContainer hr {
+    color: #FAFAF9;
+}
