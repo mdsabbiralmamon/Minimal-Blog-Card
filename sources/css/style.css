@@ -67,3 +67,10 @@ body {
 .cardContainer hr {
     color: #FAFAF9;
 }
+
+.cardContainer .cardFooter {
+    margin: 20px auto 20px 16px;
+    font-size: 0.75rem;
+    width: fit-content;
+    color: #6C727F;
+}
